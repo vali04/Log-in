@@ -1,0 +1,86 @@
+body{
+
+	width: 500px;
+	margin: 50px auto;
+	background-image: url(../img/images.jpg) ;
+}
+
+
+.sing-in{
+
+margin-left: 100px;
+border: 2px solid black;
+border-radius: 25px;
+width: 300px;
+height: 470px;
+text-align: center;
+background-color: white;
+
+	}
+
+
+
+
+hr{
+
+	width: 70%;
+	margin-top: 30px;
+    
+}
+
+.email{
+
+padding: 10px;
+border-radius: 25px;
+margin: 10px;
+width: 70%;
+outline: none;
+
+}
+
+.email:focus{
+
+
+		
+		border:2px solid skyblue;
+	
+
+	}
+
+.login-gmail{
+
+     margin: 20px;
+	background-color: #fff;
+	border-radius: 25px;
+	width: 50%;
+	outline: none;
+
+
+}
+
+.login-gmail a{
+
+	color: blue;
+	text-decoration: none;
+}
+
+.button-sing{
+
+	color: blue;
+	border-radius: 25px;
+	outline: none;
+	width: 25%;
+}
+
+
+.box{
+
+	outline: none;
+
+}
+
+.sing a{
+
+	text-decoration: none;
+	color: blue;
+}
